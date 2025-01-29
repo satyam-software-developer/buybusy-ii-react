@@ -1,16 +1,18 @@
-# BuyBusy - Redux
+# Problem statement
+  - https://classroom.codingninjas.com/app/classroom/me/25434/content/694587/offering/11358938
+# BuyBusy-II - Redux
 
-This is a Coding Ninjas project of BuyBusy e-com website, made using Reactjs, Redux toolkit, react-router-dom. User can create their accout and add/remove products in their cart and also place order. This project saves data inside Firebase Database.
+This is a Coding Ninjas project for the BuyBusy e-com website, made using Reactjs, Redux toolkit, and react-router-dom. User can create their accounts add/remove products in their cart and also place order. This project saves data inside the  Firebase Database.
 
 # Installation and Run
 
 Follow the following steps to run the code on your system.
 
 - Get the code on your system.
-- Open terminal and navigate to the root directory of the code.
-- Run "npm install" Command inside terminal to install all the dependencies.
-- After complete installation, run command "npm start" inside the terminal to run the code.
-- To see the output, Open your web broswer and serach for http://localhost:3000/
+- Open the terminal and navigate to the root directory of the code.
+- Run the "npm install" Command inside the terminal to install all the dependencies.
+- After completing the installation, run the command "npm start" inside the terminal to run the code.
+- To see the output, Open your web browser and search for http://localhost:3000/
 
 # Features
 
